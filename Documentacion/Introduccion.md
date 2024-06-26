@@ -1,0 +1,2 @@
+# Introducción
+La aplicación móvil para el seguimiento de pacientes de la clínica CLINUD en Santiago de Chile tiene como objetivo mejorar la gestión y el seguimiento de los pacientes a través de una plataforma digital eficiente y segura. Este repositorio contiene toda la documentación y los recursos necesarios para el desarrollo, implementación y mantenimiento de esta aplicación.
